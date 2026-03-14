@@ -1,0 +1,41 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #e6f2ff;
+}
+
+h1 {
+  color: #333;
+}
+
+.car {
+  background: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 12px;
+  display: inline-block;
+  width: 300px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  background: #0077ff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+} 
+
+header{
+background:#0077ff;
+color:white;
+padding:20px;
+margin-bottom:20px;
+}
+
+.car img{
+width:100%;
+border-radius:10px;
+} 
